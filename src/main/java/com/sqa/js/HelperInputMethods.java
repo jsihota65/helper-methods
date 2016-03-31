@@ -45,24 +45,3 @@ public class HelperInputMethods {
 
 }
 
-
-/*
-Implement two of the following helper methods below:
-
-// Get a double value from the user
-public static double getDouble(String question)
-
-// Get a char value from the user
-public static char getChar(String question)
-
-// Get a char value from the user, must be an acceptable value
-public static char getChar(String question, char... c)
-
-// Get a String from the user, must be an acceptable value
-public static String getString(String question, String... s)
-
-// Create your own helper method that you may find useful
-
-
-
-*/
